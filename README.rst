@@ -1,4 +1,4 @@
-Template
+Creworker collab
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -13,29 +13,19 @@ Look how easy it is to use:
 Features
 --------
 
-- Be awesome
-- Make things faster
+- Project Management
+- User Management
+- Procurement
+- Inventory
 
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+We have a support mail: help@creworker.com
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the Creworker Software license.
